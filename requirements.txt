@@ -1,0 +1,9 @@
+streamlit
+streamlit-folium
+folium
+branca
+plotly
+pandas
+numpy
+pyarrow
+shapely
